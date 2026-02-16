@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "file": "forbidden-bypass-techniques.md",
+    "category": "technique",
+    "tags": [
+      "bypass",
+      "403",
+      "web",
+      "access control"
+    ],
+    "title": "Access Denied? Not Really: A Complete Guide to Forbidden Page Bypass Techniques",
+    "date": "2026-02-11",
+    "readTime": "5 min read",
+    "excerpt": "A 403 Forbidden response is not proof of security. From URL tricks to header manipulation, here's how access controls really break down.",
+    "mediumUrl": "https://medium.com/@moul_cyber/access-denied-not-really-a-complete-guide-to-forbidden-page-bypass-techniques-024ee810aae0"
+  }
+]
