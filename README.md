@@ -1,2 +1,3 @@
-# abdo-sebban.github.io
-A blog where I share writeups on CTFs, coding projects, security research, and technical explorations.
+<p align="center">
+  <img src="img/Raphael%20TMNT%20sketch.jpg" alt="moul_cyber" width="120" style="border-radius: 50%;" />
+</p>
