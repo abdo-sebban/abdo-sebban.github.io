@@ -3,5 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&color=000000&weight=700&lines=Knowledge+is+power." />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&color=FFFFFF&weight=700&font=Fira+Code&lines=Knowledge+is+power.">
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=600&color=000000&weight=700&font=Fira+Code&lines=Knowledge+is+power." />
+</picture>
 </p>
