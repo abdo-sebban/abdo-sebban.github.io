@@ -1,5 +1,19 @@
 [
   {
+    "id": 2,
+    "file": "Cyber-Kill-Chain.md",
+    "category": "technique",
+    "tags": [
+      "technique",
+      "malware",
+      "network"
+    ],
+    "title": "Understanding the Cyber Kill Chain: How Cyberattacks Actually Happen",
+    "date": "2026-02-20",
+    "readTime": "8 min read",
+    "excerpt": "A deep dive into the 7 stages of the Cyber Kill Chain — from reconnaissance to actions on objectives — with real-world techniques and defense strategies."
+  },
+  {
     "id": 1,
     "file": "forbidden-bypass-techniques.md",
     "category": "technique",
